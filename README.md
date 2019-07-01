@@ -1,5 +1,4 @@
 # Juego_Interfaces_Inteligentes
-proyecto final
 
 # Hitos logrados en la realización de la práctica:
  
@@ -26,7 +25,28 @@ proyecto final
    * X: Recargar el arma de fuego
    * Joystikc izquierdo: Mover al personaje
  
- * __Distribución de la tareas y trabajo en equipo__: A la hora de realizar el proyecto, por lo general, trabajabamos todos de manera conjunta, 
- usualmente de forma remota a través de Discord. Distribuir el trabajo de manera correcta sería complicado, ya que todos trabajos de alguna
- manera en los apartados que realizaron los demás, pero, a grandes rasgos, Alberto se ocupó del GameController, la carga de niveles y 
- el canvas; Pablo realizó el mapa y añadió la niebla y las hogueras; y Javier trabajó con el movimiento del personaje y los enemigos.
+ * __Distribución de la tareas y trabajo en equipo__: A la hora de realizar el proyecto, por lo general, trabajabamos todos de manera conjunta, usualmente de forma remota a través de Discord. Distribuir el trabajo de manera correcta sería complicado, ya que todos trabajos de alguna manera en los apartados que realizaron los demás, pero, a grandes rasgos: 
+   * Alberto se ocupó del canvas, particulas(niebla, hogueras) y sus delegados, y del control de niveles 
+   * Pablo realizó el mapa, el gamecontroller y la configuración del NavMesh 
+   * Javier trabajó con los movimientos del personaje, se encargo  de las animaciones, y del disparo del arma.
+ 
+ En este gif del juego se puede apreciar el hud y la animación asociada al disparo del arma principal.
+ 
+ ![Hud+Disparar](Gifs/Hud+Disparar.gif)
+ 
+ Aqui se puede ver la animacion de muerte de un zombie y la animación de cambio del arma principal a la secundaria.
+ 
+ ![Muerte_Zombie+Cambio_katana](Gifs/Muerte_Zombie+Cambio_katana.gif)
+ 
+ GamePlay del juego en el cual se ve el manejo de la katana, asi como su animacion.
+ 
+ ![Gameplay_katana](Gifs/Gameplay_katana.gif)
+ 
+ Efecto de particulas de las hogueras
+ 
+ ![Hoguera](Gifs/Hoguera.gif)
+ 
+ Por ultimo se puede ver la niebla y que al acabar con todos los zombies de la ronda, esta se actualiza en el HUD
+ 
+ ![Fog+Cambio_Ronda](Gifs/Fog+Cambio_Ronda.gif)
+ 
