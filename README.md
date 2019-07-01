@@ -1,5 +1,7 @@
 # Juego_Interfaces_Inteligentes
 
+* __Descarga del APK__: https://drive.google.com/file/d/1WgajQ2EYZ8zkrqfxoD5xTD7qER3rih_v/view?usp=drivesdk
+
 # Hitos logrados en la realización de la práctica:
  
  * __Enemigos__: El prefeb para los enemigos lo hemos tomado de diversas assets de la store. Éstas incluían varios personajes con 
