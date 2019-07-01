@@ -29,24 +29,29 @@
    * Alberto se ocupó del canvas, particulas(niebla, hogueras) y sus delegados, y del control de niveles 
    * Pablo realizó el mapa, el gamecontroller y la configuración del NavMesh 
    * Javier trabajó con los movimientos del personaje, se encargo  de las animaciones, y del disparo del arma.
+   
+   
+   
+ * __Gifs del juego__
  
- En este gif del juego se puede apreciar el hud y la animación asociada al disparo del arma principal.
+   * En este gif del juego se puede apreciar el hud y la animación asociada al disparo del arma principal.
  
  ![Hud+Disparar](Gifs/Hud+Disparar.gif)
  
- Aqui se puede ver la animacion de muerte de un zombie y la animación de cambio del arma principal a la secundaria.
+ 
+   * Aqui se puede ver la animacion de muerte de un zombie y la animación de cambio del arma principal a la secundaria.
  
  ![Muerte_Zombie+Cambio_katana](Gifs/Muerte_Zombie+Cambio_katana.gif)
  
- GamePlay del juego en el cual se ve el manejo de la katana, asi como su animacion.
+   * GamePlay del juego en el cual se ve el manejo de la katana, asi como su animacion.
  
  ![Gameplay_katana](Gifs/Gameplay_katana.gif)
  
- Efecto de particulas de las hogueras
+   * Efecto de particulas de las hogueras
  
  ![Hoguera](Gifs/Hoguera.gif)
  
- Por ultimo se puede ver la niebla y que al acabar con todos los zombies de la ronda, esta se actualiza en el HUD
+   * Por ultimo se puede ver la niebla y que al acabar con todos los zombies de la ronda, esta se actualiza en el HUD
  
  ![Fog+Cambio_Ronda](Gifs/Fog+Cambio_Ronda.gif)
  
